@@ -26,6 +26,6 @@ When I'm not geeking out over code, you can catch me enjoying Hanoi's epic stree
 
 Drop by and check out my rad repositories and projects. If you have any questions, collaborations, or just want to shoot the breeze, hit me up! Let's create some mind-blowing stuff together! 🤝
 
-🌐 Website: [www.vuducloc.com](https://vdloc.me)
+🌐 Website: [vdloc.me](https://vdloc.me)
 📧 Email: uvcudlco@gmail.com
 
