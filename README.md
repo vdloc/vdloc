@@ -1,4 +1,4 @@
-## Yo! 👋 I'm Vũ Đức Lộc, your friendly Front-end Wizard from the beautiful city of Hanoi, Vietnam 🌆
+## Yo! 👋 I'm Vũ Đức Lộc, a passionate Front-end Developer based in the captivating city of Hanoi, Vietnam! 🌆
 
 Welcome to my groovy GitHub crib, where I blend minimalism, fun, and mad technical skills!
 
