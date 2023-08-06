@@ -1,4 +1,5 @@
-### Greetings, I'm Vũ Đức Lộc, a passionate Front-end Developer located in Hanoi, Vietnam. I specialize in crafting exceptional user experiences through clean, minimalist designs and intuitive interfaces
+## Greetings, I'm Vũ Đức Lộc, a passionate Front-end Developer located in Hanoi, Vietnam.
+I specialize in crafting exceptional user experiences through clean, minimalist designs and intuitive interfaces.
 
 ### About Me
 
