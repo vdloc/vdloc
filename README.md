@@ -23,5 +23,5 @@ Outside of programming, I enjoy discovering the vibrant food scene in Hanoi and 
 I welcome you to explore my repository showcasing various projects and samples of my work. Please feel free to connect with me to discuss potential collaborations or new ventures. I'm always eager to work with others to build exceptional products.
 
 🌐 Website: [vdloc.me](https://vdloc.me)
-📧 Email: uvcudlco@gmail.com
+📧 Email: loc.vu@owasp.org
 
