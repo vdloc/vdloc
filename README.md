@@ -18,6 +18,9 @@ Outside of programming, I enjoy discovering the vibrant food scene in Hanoi and 
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat)
 ![Vite.js](https://img.shields.io/badge/-Vite.js-646CFF?logo=vite&logoColor=white&style=flat)
 
+![vdloc's github stats](https://github-readme-stats.vercel.app/api?username=vdloc)
+
+
 ### Let's Connect!
 
 I welcome you to explore my repository showcasing various projects and samples of my work. Please feel free to connect with me to discuss potential collaborations or new ventures. I'm always eager to work with others to build exceptional products.
