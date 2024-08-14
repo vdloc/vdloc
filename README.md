@@ -17,6 +17,7 @@ Outside of programming, I enjoy discovering the vibrant food scene in Hanoi and 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat)
 ![Vite.js](https://img.shields.io/badge/-Vite.js-646CFF?logo=vite&logoColor=white&style=flat)
+![Magento Version](https://img.shields.io/badge/magento-v2.4.6-blue)
 
 ![vdloc's github stats](https://github-readme-stats.vercel.app/api?username=vdloc)
 
